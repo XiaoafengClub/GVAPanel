@@ -1,0 +1,53 @@
+# 编译产物
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 测试文件
+*.test
+*.out
+
+# Go 工作区文件
+go.work
+
+# 资源编译产物
+*.syso
+rsrc_*.syso
+
+# 用户配置文件
+.gva-launcher.json
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Windows 系统文件
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.log
+*.tmp
+tmp/
+temp/
+
+# winres 生成的临时目录
+winres/
+
+# 构建输出目录
+bin/
+dist/
+build/
+release/
+
+# 备份文件
+*.bak
+*.backup
+*_original.*
+
