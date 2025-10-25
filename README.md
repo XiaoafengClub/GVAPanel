@@ -173,6 +173,7 @@ go build -ldflags "-H windowsgui" -o GVAPanel_for_windows.exe main.go
 
 <!-- 在这里添加软件截图 -->
 （待添加）
+<img width="1078" height="1470" alt="image" src="https://github.com/user-attachments/assets/8fa5c810-1a32-4586-923d-8c43c5a8dad8" />
 
 </details>
 
@@ -307,4 +308,5 @@ in the Software without restriction...
 <p align="center">
   Made with ❤️ by GVAPanel Contributors
 </p>
+
 
