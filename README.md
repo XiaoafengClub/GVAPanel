@@ -51,7 +51,7 @@
 ### 方式一：直接下载可执行文件（推荐）
 
 1. 前往 [Releases](https://github.com/小阿凤俱乐部/GVAPanel/releases) 页面
-2. 下载最新版本的 `GVAPanel_for_windows.exe`
+2. 下载最新版本的 `GVAPanel_for_windows.zip`
 3. 双击运行，首次启动会要求选择 GVA 项目根目录
 4. 选择您的 GVA 项目目录后即可开始使用
 
@@ -307,6 +307,7 @@ in the Software without restriction...
 <p align="center">
   Made with ❤️ by GVAPanel Contributors
 </p>
+
 
 
 
